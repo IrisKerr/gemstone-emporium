@@ -1,0 +1,24 @@
+{
+  "name": "gemstone-emporium",
+  "version": "1.0.0",
+  "description": "website project using express.js / tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrisKerr/gemstone-emporium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrisKerr/gemstone-emporium/issues"
+  },
+  "homepage": "https://github.com/IrisKerr/gemstone-emporium#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
