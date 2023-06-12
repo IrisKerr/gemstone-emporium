@@ -1,2 +1,8 @@
 # gemstone-emporium
-website project using express.js / tailwind
+e-commerce website (SPA) project using :
+- Tailwind
+- Express.js
+- EJS
+- PostgreSQL
+- Sequelize
+
